@@ -1,0 +1,78 @@
+.orange-color {
+    color: orangered;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: large;
+    color: gray;
+    padding: 20px;
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(243, 61, 29);
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: white;
+    border: 10px 10px;
+}
+
+.picture {
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-position: top;
+}
+
+.about-me {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.recipe {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.project-cover-picture {
+    box-shadow: 10px 10px 5px rgb(48, 33, 33);
+    margin: auto;
+}
+
+.youtube {
+    box-shadow: 10px 10px 5px rgb(48, 33, 33);
+    border: 40px;
+    width: 80%;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.recipe {
+    margin-bottom: 20px;
+}
+
+.end {
+    background-color: rgb(4, 4, 22);
+    box-sizing: border-box;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+#healthy {
+    color: white;
+}
